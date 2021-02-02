@@ -1,7 +1,8 @@
 # Hello-World
+Just learning some git
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
+- [Striker-hub](https://github.com/Striker-hub)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
